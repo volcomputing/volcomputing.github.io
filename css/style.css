@@ -26,11 +26,19 @@ body {
 
 
 #sidebar {
-  border-left: 1px solid #333;
+  border-left: 1px solid #666;
 }
 
-#sidebar .row {
-  border-bottom: 1px solid #333;
+#footer {
+  border-top: 1px solid #666;
+  padding: 50px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+#sidebar h3 {
+  padding-bottom: 3px;
+  border-bottom: 2px solid #F77F00;
 }
 
 #supporters ul {
