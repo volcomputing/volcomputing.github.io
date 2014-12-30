@@ -24,13 +24,12 @@ body {
   text-decoration: none;
 }
 
-
 #sidebar {
-  border-left: 1px solid #666;
+  border-left: 1px solid #F77F00;
 }
 
 #footer {
-  border-top: 1px solid #666;
+  border-top: 1px solid #F77F00;
   padding: 50px;
   margin-top: 50px;
   text-align: center;
@@ -51,6 +50,12 @@ body {
   max-height: 40px;
   width: auto;
   margin: 10px;
+}
+
+.date {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-style: italic
 }
 
 h1, h2, h3, h4, h5, h6 {
